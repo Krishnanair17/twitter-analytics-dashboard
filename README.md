@@ -1,9 +1,12 @@
 # twitter-analytics-dashboard
-#Internship project in Power BI - Twitter data analysis
+
+Internship project in Power BI - Twitter data analysis
+
 Submitted by: Krishna B Nair
 Internship Role: Data Analyst Intern
 Organization: NullClass EdTech Pvt. Ltd.
 Internship Duration: 13 June 2025 – 13 July 2025
+
 #Project Overview
 This project was developed as part of the internship program offered by NullClass, focused on real-time data visualization using Power BI. The main objective was to build an interactive Twitter Analytics Dashboard that provides insights into user engagement based on various tweet metrics. The dashboard leverages DAX formulas, time-based dynamic visuals, and advanced filtering techniques to display only relevant data. Each chart was designed to meet specific conditional requirements such as filtering by tweet content, timing, likes, impressions, and engagement rates. The final Power BI report is responsive, visually consistent, and built with a professional theme that aligns with modern data storytelling standards.
 #Completed Tasks
