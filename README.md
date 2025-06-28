@@ -3,8 +3,11 @@
 Internship project in Power BI - Twitter data analysis
 
 Submitted by: Krishna B Nair
+
 Internship Role: Data Analyst Intern
+
 Organization: NullClass EdTech Pvt. Ltd.
+
 Internship Duration: 13 June 2025 – 13 July 2025
 
 Project Overview
